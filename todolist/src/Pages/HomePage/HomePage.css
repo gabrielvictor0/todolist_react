@@ -1,0 +1,99 @@
+section{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+    background-color: #8758FF;
+}
+
+.boxCardButton{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.inputFilter{
+    width: 308.64px;
+    height: 42.44px;
+    border: 1.54px solid #FCFCFC;
+    border-radius: 7.72px;
+    background-color: transparent;
+    color: white;
+    margin-bottom: 71.76px;
+}
+
+.modal{
+    width: 914px;
+    height: 472px;
+
+    border-radius: 10px;
+    background-color: #1E123B;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 80px;
+    left: 300px;
+}
+
+.titleModal{
+    color: white;
+}
+
+.inputModal{
+    width: 577px;
+    height: 177px;
+    border-radius: 10px;
+    background-color: #FCFCFC;
+    background-color: #1E123B;
+    border-color: 1px solid white;
+    color: white;
+}
+
+.buttonModal{
+    width: 322px;
+    height: 64px;
+    border-radius: 10px;
+    border: 2px solid #FCFCFC;
+    background-color: #6C45CE;
+    margin-bottom: 56px;
+
+    font-weight: 700;
+    color: #FCFCFC;
+    font-size: 23px;
+}
+
+.buttonHome{
+    width: 201.38px;
+    height: 49.38px;
+    border-radius: 7.72px;
+    border: 2px solid #FCFCFC;
+    background-color: #6C45CE;
+    color: white;
+    font-size: 17.75px;
+    font-weight: 700;
+    margin-top: 17.64px;
+}
+
+.day{
+    color: #8758FF;
+    font-weight: 700;
+    font-size: 30.86px;
+}
+
+.weekMonth{
+    color: #FCFCFC;
+    font-weight: 700;
+    font-size: 24.69px;
+}
+
+.errorSearch{
+    color: white;
+}

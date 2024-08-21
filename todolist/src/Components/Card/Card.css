@@ -1,0 +1,74 @@
+.card{
+    width: 674.37px;
+    height: 61.73px;
+
+    border-radius: 7.72px;
+    background-color: #FCFCFC;
+    border: 0.77px solid #3C424A;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 9.26px;
+}
+
+.cardSelected{
+    width: 674.37px;
+    height: 61.73px;
+
+    border-radius: 7.72px;
+    background-color: #6C45CE;
+    border: 0.77px solid #3C424A;
+    color: white;
+    margin-bottom: 9.26px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.button{
+    width: 33.95px;
+    height: 33.95px;
+    border-radius: 3.86px;
+    border: 1.54px solid #1E123B;
+    background-color: transparent;
+    
+    margin-right: 10px;
+}
+
+.buttonEdits{
+    width: 33.95px;
+    height: 33.95px;
+    border-radius: 3.86px;
+    border: 1.54px solid white;
+    background-color: transparent;
+    
+    margin-right: 10px;
+}
+
+.buttonSelect{
+    width: 33.95px;
+    height: 33.95px;
+
+    border-radius: 3.86px;
+    border: 0.77px solid #8758FF;
+    background-color: #BDA4FF;
+
+    margin-right: 10px;
+}
+
+.buttonSelected{
+    width: 33.95px;
+    height: 33.95px;
+
+    border-radius: 3.86px;
+    border-style: none;
+    background-color: #1E123B;
+
+    margin-right: 10px;
+}
